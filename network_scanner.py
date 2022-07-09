@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# python network_scanner.py -t 192.168.0.1/24
+
 
 import scapy.all as scapy
 import argparse
